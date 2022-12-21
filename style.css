@@ -1,0 +1,15 @@
+.footer
+{
+    display: flex;
+    justify-content:space-between;
+}
+
+p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1,h2
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
